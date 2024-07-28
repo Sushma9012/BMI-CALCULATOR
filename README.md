@@ -2,6 +2,10 @@
 
 A simple BMI (Body Mass Index) calculator web application that calculates BMI based on user input and displays the corresponding BMI category.
 
+## Working Link
+
+https://sushma9012.github.io/BMI-CALCULATOR/
+
 ## Features
 
 - Input fields for age, height, weight, and gender.
